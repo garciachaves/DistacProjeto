@@ -1,0 +1,59 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+body {
+    background-color: black;
+}
+
+#carouselExampleSlidesOnly {
+    width: 80%;
+    opacity: 0.8;
+}
+article {
+    margin: 15px 0;
+}
+
+.carousel {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 400px;
+    /* border: 2px solid orange; */
+}
+footer div {
+    font-size: small;
+    font-style: italic;
+    color: gray;
+    text-align: center;
+    /* border: 1px solid gray; */
+}
+
+section p {
+    margin-top: 10px;
+    text-align: center;
+}
+
+.text {
+display: flex;
+align-items: center;
+color: #e2e2e2;
+
+}
+
+.btn {
+    color: darkgrey;
+}
+
+.navbar-brand {
+font-size: larger;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+padding-right: 30px;
+}
+
+.form-control {
+background-color: darkgray;
+color: white;
+}
