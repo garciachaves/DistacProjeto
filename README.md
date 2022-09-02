@@ -1,0 +1,2 @@
+# distac
+Versao simplificada
